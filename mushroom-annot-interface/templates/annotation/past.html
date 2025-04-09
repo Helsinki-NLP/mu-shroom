@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% load custom_tags %}
+
+{% block content %}
+
+<form method="post" action="{% url 'login' %}">
+{% csrf_token %}
+<table>
+{% for annot in past_annotations %}
+<tr>
+    <td>{{ annot.datapoint.model_input }}</td>
+    <td>{{ annot|show_annots }}</td>
+    <td>
+    <a href="{% url 'delete_annotation' annot.id %}">Delete</a>
+    <br/>
+    <a href="{% url 'edit_annotation' annot.id %}">Edit</a>
+    </td>
+</tr>
+{% empty %}
+<tr><td>You don't have any annotations.</td>
+{% endfor %}
+</table>
+
+
+{% endblock %}

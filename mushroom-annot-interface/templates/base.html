@@ -1,0 +1,28 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{% static 'annotation/style.css' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+{% block head %}{% endblock %}
+    <title>{% block title %}Mu-SHROOM annotation{% endblock %}</title>
+</head>
+
+<body>
+    <div id="sidebar">
+        {% block sidebar %}
+        <ul>
+            <li><a href="{% url 'index' %}">Go to annotation page</a></li>
+            <li><a href="{% url 'past_annotations' %}">See previous annotations</a></li>
+            <li><a href="{% url 'logout' %}">Log out</a></li>
+            <li><a href="https://docs.google.com/document/d/e/2PACX-1vTNZJu-RCvevnlbZtlniblJMB3CGtXpwVLjHbGlrUh7f1tdE_Pr_5UyIvLe-_uoKw3hN9KpAFNo7nio/pub" target="blank"> Guidelines (opens in new tab)</a></li>
+        </ul>
+        {% endblock %}
+    </div> 
+    
+    <div id="content">
+        {% block content %}{% endblock %}
+    </div>
+</body>
+</html>

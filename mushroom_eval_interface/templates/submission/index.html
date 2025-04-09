@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+
+<p>
+<strong>🍄 Welcome to the submission website for The Mu-SHROOM shared task (SemEval 2025 Task 3)!  🍄</strong><br>
+Mu-SHROOM is a multilingual shared task to advance the SOTA in hallucination detection for content generated with LLMs.
+</p>
+<p>
+Thanks for your interest in the task!  You can download the data for your participation from <a href="https://helsinki-nlp.github.io/shroom/">our shared task website</a>.<br>
+Consider joining the <a href="https://groups.google.com/g/semeval-2025-task-3-mu-shroom">Google group</a> or the <a href="https://join.slack.com/t/shroom-shared-task/shared_invite/zt-2mmn4i8h2-HvRBdK5f4550YHydj5lpnA">shared task Slack</a> to stay informed!
+</p>
+
+{% if rankings %}
+<div class="row" style="height: fit-content; align-items: center">
+    {% for lang, lang_rankings in rankings.items %}
+    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 align-self-stretch justify-content-center">
+    <strong>{{ lang }}</strong>
+    <table  class="table table-striped table-condensed" style="max-width: 500px">
+    <thead>
+    <tr>
+        <td style="width: 10%"></td>
+        <td style="width: 60%">Team</td>
+        <td style="width: 10%">IoU</td>
+        <td style="width: 10%">Cor</td>
+    </tr>
+    </thead>
+    <tbody>
+    {% for rowdata in lang_rankings %}
+    <tr>
+       <td >{{ forloop.counter }}</td>
+       <td >{{ rowdata.submitter__team_name }}</td>
+       <td >{{ rowdata.avg_iou_score|floatformat:4 }}</td>
+       <td >{{ rowdata.avg_cor_score|floatformat:4 }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+    </table>
+    </div>
+    
+    {% endfor %}
+</div>
+{% endif %}
+
+{% endblock %}

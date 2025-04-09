@@ -1,0 +1,97 @@
+{% extends "base.html" %}
+{% load custom_tags %}
+
+{% block head %}
+
+<script>
+$(document).ready(function(){
+  $("td#modeloutput").on('click', 'span.removable', function(){
+    $(this).contents().unwrap();
+  });
+  
+  $("#postannot").on( "submit", function( event ) {
+    var selected = [];
+    $("#iptselected").val($('td#modeloutput').html());
+    if (!(($("td#modeloutput > span.selected").length > 0) || ($("input#comments").val().trim() != ""))) {
+        alert("No word marked. If this input contains no word to be marked, please include a comment.")
+        event.preventDefault();
+    }
+  });
+  
+  function getSelectedText() {
+    t = (document.all) ? document.selection.createRange().text : document.getSelection();
+    return t;
+  }
+
+  $('td#modeloutput').mouseup(function(){
+    var selection = getSelectedText();
+    var selection_text = selection.toString();
+    if ($.trim(selection_text).length){
+      var span = document.createElement('SPAN');
+      span.textContent = selection_text;
+      span.classList.add("removable");
+      span.classList.add("selected");
+      var range = selection.getRangeAt(0);
+      range.deleteContents();
+      range.insertNode(span);
+    }
+  });
+  
+});
+</script>
+
+{% endblock %}
+
+
+{% block content %}
+
+
+{% if all_complete %}
+
+<p><strong>Thanks for the hard work!</strong> There's nothing left to annotate right now.</p>
+
+{% else %}
+
+
+<table style="width: 90%">
+<tr>
+    <td><strong>Question:</strong></td>
+    <td>{{ datapoint.model_input }}</td>
+</tr>
+<tr>
+    <td><strong>Answer:</strong></td>
+    {% if previous_annotation %}
+    <td id="modeloutput" >{{ previous_annotation|show_annots_annotable }}</td>
+    {% else %}
+    <td id="modeloutput" >{{ datapoint.model_output }}</td>
+    {% endif %}
+</tr>
+
+</table>
+
+<hr/>
+
+<form id='postannot' action="{% url 'post_annotation' %}" method="post" name="postannot">
+{% csrf_token %}
+</table  style="width: 90%">
+<tr>
+    <td><strong>Comments:</strong></td>
+    <td><input type="textarea" style="width:50%; height:50px;" name="comments" id="comments" value="{% if previous_annotation %}{{ previous_annotation.comments }}{% endif %}"></input></td>
+</tr>
+<tr>
+    <td><strong>Submit:</strong></td>
+    <td><input type="submit" value="Annotate" name="subbutton" id="subbutton"></input></td>
+</tr>
+</table>
+<input type='hidden', id='iptselected' name="iptselected" ></input>
+<input type='hidden', id='iptdatapointid' name="iptdatapointid" value="{{ datapoint.id }}" ></input>
+<input type='hidden', id='iptisedit' name="iptisedit" value="{{ is_edit }}" ></input>
+</form>
+
+<hr/>
+
+<iframe width="90%" height="500px" src="{{ datapoint.wikipedia_url }}"></iframe>
+
+{% endif %}
+
+{% endblock %}

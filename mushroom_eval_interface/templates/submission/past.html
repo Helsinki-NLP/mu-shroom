@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% if not past_submissions %}
+<p>You don't have any submissions.</p>
+{% else %}
+
+<table class="table table-striped table-condensed">
+<thead>
+<tr><td></td> <td><strong>Identifier</strong></td> <td><strong>IoU</strong></td> <td><strong>Cor</strong></td>
+</tr>
+</thead>
+<tbody>
+{% for submission in past_submissions %}
+<tr>
+    <td>{{ submission.language }}</td>
+    <td>{{ submission.identifier }}</td>
+    <td>{{ submission.avg_iou_score }}</td>
+    <td>{{ submission.avg_cor_score }}</td>
+    <td>
+    <a href="{% url 'delete_submission' submission.id %}">Delete</a>
+    &nbsp;&nbsp;
+    <a href="{% url 'edit_submission' submission.id %}">Edit metadata</a>
+    </td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+{% endif %}
+
+{% endblock %}

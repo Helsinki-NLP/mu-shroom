@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<form method="post">{% csrf_token %}
+<table>
+    {{ form.as_table }}
+</table>
+    <input type="submit" value="Confirm">
+</form>
+<a href="{% url 'past_submissions' %}">Go back</a>
+
+{% endblock %}

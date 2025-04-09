@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% if can_submit %}
+<form action="{% url 'make_submission' %}" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <table>
+    {{ form.as_table }}
+    </table>
+    <input type="submit" value="Submit">
+</form>
+{% else %}
+<p>
+<strong>Submissions for this competition are closed!</strong> Thanks for your interest nonetheless. <br>
+If we haven't done so, we will release the labeled test data shortly, along with the code for this interface. 
+In the meantime, you can go have a look at the official rankings on the <a href="{% url 'index' %}">landing page</a>. 
+</p>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,27 @@
+asgiref==3.8.1
+certifi==2024.2.2
+charset-normalizer==3.3.2
+Django==5.0.6
+filelock==3.14.0
+fsspec==2024.5.0
+huggingface-hub==0.23.2
+idna==3.7
+numpy==1.26.4
+packaging==24.0
+pandas==2.2.2
+protobuf==5.27.0
+python-dateutil==2.9.0.post0
+pytz==2024.1
+PyYAML==6.0.1
+regex==2024.5.15
+requests==2.32.2
+safetensors==0.4.3
+sentencepiece==0.2.0
+six==1.16.0
+sqlparse==0.5.0
+tokenizers==0.19.1
+tqdm==4.66.4
+transformers @ git+https://github.com/huggingface/transformers@a564d10afe1a78c31934f0492422700f61a0ffc0
+typing_extensions==4.12.0
+tzdata==2024.1
+urllib3==2.2.1

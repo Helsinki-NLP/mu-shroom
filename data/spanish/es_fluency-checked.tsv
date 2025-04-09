@@ -1,0 +1,338 @@
+	URL-es	lang	question	model_id	output_text	title	has_fluency_mistakes	has_factual_mistakes
+4013	https://es.wikipedia.org/wiki/Cosmolog%C3%ADa_observacional	ES	 ¿Qué estudia la cosmología observacional?	Qwen/Qwen2-7B-Instruct	"La cosmología observacional es una rama de la astrofísica que se ocupa del estudio del universo a través de la observación y análisis de los datos obtenidos de las estrellas, galaxias y otras formas de materia en el cosmos. Se enfoca en entender la estructura, evolución y composición del universo.
+
+Estudia aspectos como:
+
+1. **Evolución del Universo**: La cosmología observacional busca entender cómo ha cambiado el universo desde su origen hasta el presente. Esto incluye la exploración de la expansión del universo y su aceleración.
+
+2. **Materia Oscura y Energía Oscura**: Estas son dos componentes fundamentales del universo que no pueden ser observadas directamente, pero cuya existencia se deduce a partir de sus efectos en la gravedad y la luz. La cosmología observacional intenta determinar su cantidad y distribución.
+
+3. **Grupos y Clústeres de Galaxias**: Estudia cómo se forman y evolucionan estos grandes conglomerados de galaxias.
+
+4. **Fotometría y Espectroscopia**: Estudia la luz que emiten las estrellas y galaxias para determinar su composición, temperatura, velocidad y distancia.
+
+5. **Teoría de la Gravedad y Cosmología General**: Utiliza la teoría de la relatividad general de Einstein para entender fenómenos como la curvatura del espacio-tiempo y la expansión del universo.
+
+6. **Teoría del Big Bang**: La cosmología observacional proporciona pruebas empíricas a favor de la teoría del Big Bang, que explica el origen y la evolución del universo.
+
+7. **Ciclo de vida de las estrellas**: Estudia cómo se forman, evolucionan y mueren las estrellas, y cómo esto contribuye al ciclo de vida del universo.
+
+8. **Cosmológicos Parámetros**: Estudia parámetros importantes como la densidad de la materia, la constante de la energía vacío y la velocidad de expansión del universo.
+
+En resumen, la cosmología observacional es un campo muy amplio que utiliza la observación y el análisis de los datos astronómicos para entender el universo en su conjunto."	观测宇宙学	n	n
+3422	https://es.wikipedia.org/wiki/Cinturón_alpino	ES	¿Cómo se llama la fase global de formación de montañas en la que se formaron los Alpes?	meta-llama/Meta-Llama-3-8B-Instruct	"La fase global de formación de montañas en la que se formaron los Alpes se conoce como la orogenia alpina o orogenia hercínica. Esta orogenia se produjo durante el período Cenozoico, específicamente entre hace 65 y 20 millones de años, y se caracterizó por la colisión entre la placa euroasiática y la placa africana.
+
+Durante esta época, la placa africana se estaba moviendo hacia el norte y se estaba acercando a la placa euroasiática. La colisión entre ambas placas causó una gran cantidad de deformación y elevación del terreno, lo que llevó a la formación de las montañas alpinas.
+
+La orogenia alpina se dividió en dos fases principales:
+
+1. La primera fase, que se produjo entre hace 65 y 40 millones de años, se caracterizó por la formación de una cadena montañosa en el sur de Europa, que se conoce como la cordillera hercínica.
+2. La segunda fase, que se produjo entre hace 40 y 20 millones de años, se caracterizó por la formación de las montañas alpinas actuales, incluyendo los Alpes, los Pirineos y los Cárpatos.
+
+En resumen, la orogenia alpina fue la fase global de formación de montañas en la que se formaron los Alpes, y se produjo durante el período Cenozoico, específicamente entre hace 65 y 20 millones de años."	阿尔卑斯带	n	y
+2981	https://es.wikipedia.org/wiki/Colina_Aukštojas	ES	¿Cómo se llama la segunda colina más alta de Lituania?	Qwen/Qwen2-7B-Instruct	La segunda colina más alta de Lituania se llama Priede. Tiene una altura de 231 metros.	奧庫斯托雅斯山	n	y
+6372	https://es.wikipedia.org/wiki/Delley-Portalban	ES	¿En qué cantón suizo se encuentra la comuna de Delley-Portalban?	Iker/Llama-3-Instruct-Neurona-8b-v2	La comuna de Delley-Portalban se encuentra en el cantón suizo de Friburgo.	Delley-Portalban	n	n
+2065	https://es.wikipedia.org/wiki/Edú_Manga	ES	¿Practicar qué deporte le hizo famoso al brasileño Edú Manga?	Qwen/Qwen2-7B-Instruct	Edú Manga es famoso por su habilidad en el deporte del voleibol.	Edu Manga	n	y
+6873	https://es.wikipedia.org/wiki/Agastache	ES	¿De qué palagras griegas proviene el nombre de las plantas del genero Agastache?	Iker/Llama-3-Instruct-Neurona-8b-v2	"El nombre del género Agastache proviene de las palabras griegas ""a"" que significa ""sin"" y ""gastē"" que significa ""casa"" o ""hogar"". El nombre se refiere a la ausencia de una casa o refugio, ya que las plantas de Agastache son perennes herbáceas que crecen bien en lugares abiertos y sin cultivar."	Agastache	n	y
+5253	https://es.wikipedia.org/wiki/Lugdunum	ES	¿En que país actual estuvo ubicada la ciudad romana de Lugdunum?	Iker/Llama-3-Instruct-Neurona-8b-v2	La ciudad romana de Lugdunum, ahora conocida como Lyon, está ubicada en Francia.	卢格杜努姆	n	n
+4463	https://es.wikipedia.org/wiki/Folorunsho_Alakija	ES	 ¿En qué industrias participa Folorunsho Alakija?	meta-llama/Meta-Llama-3-8B-Instruct	"Folorunsho Alakija es una empresaria y filántropa nigeriana que ha participado en varias industrias, incluyendo:
+
+1. Moda: Es la propietaria de la empresa de moda ""Rose of Sharon House of Fashion"", que diseña y produce ropa y accesorios.
+2. Petróleo y gas: Es una inversora en la industria del petróleo y gas en Nigeria, y ha trabajado con varias empresas petroleras.
+3. Banca: Es una accionista en la banca comercial en Nigeria, y ha trabajado con varias instituciones financieras.
+4. Inmobiliaria: Ha invertido en la industria inmobiliaria en Nigeria, y ha desarrollado varios proyectos de viviendas y oficinas.
+5. Energía renovable: Ha invertido en la industria de la energía renovable en Nigeria, y ha trabajado con varias empresas que se enfocan en la generación de energía solar y eólica.
+6. Agroindustria: Ha invertido en la industria agroindustrial en Nigeria, y ha trabajado con varias empresas que se enfocan en la producción de alimentos y bebidas.
+7. Finanzas: Ha fundado y es la presidenta de la empresa de servicios financieros ""The Situ Oil Services Limited"", que se enfoca en la gestión de activos y la asesoría financiera.
+
+Además, Folorunsho Alakija es conocida por su filantropía y ha donado a varias causas benéficas en Nigeria y en todo el mundo."	Folorunsho Alakija	n	y
+3064	https://es.wikipedia.org/wiki/F.E.A.R.	ES	¿Cuántas secuelas y expansiones del juego F.E.A.R. se comercializaron?	Qwen/Qwen2-7B-Instruct	"El juego F.E.A.R. tuvo varias secuelas y expansiones que se comercializaron:
+
+1. **F.E.A.R. 2: Project Origin** (2010) - Es la secuela directa de F.E.A.R.
+
+2. **F.E.A.R. 3** (2011) - Continúa la historia de F.E.A.R. 2 con nuevos personajes y ubicaciones.
+
+3. **F.E.A.R. Extraction Point** (2009) - Es una expansión para el primer juego F.E.A.R.
+
+4. **F.E.A.R. Dimensions of Power** (2010) - Es una expansión para F.E.A.R. 2: Project Origin.
+
+5. **F.E.A.R. Onslaught** (2011) - Es una expansión para F.E.A.R. 3.
+
+Por lo tanto, en total, se comercializaron cinco títulos: tres juegos principales y dos expansiones."	FEAR (jeu vidéo)	n	y
+3391	https://es.wikipedia.org/wiki/Fortescue_(Misuri)	ES	¿Cuántos habitantes tiene Forstescue, Misuri?	meta-llama/Meta-Llama-3-8B-Instruct	Foristell es un pueblo ubicado en el condado de St. Charles, Misuri, Estados Unidos. Según el censo de 2020, la población de Foristell es de 1,245 habitantes.	Fortescue (Missouri)	n	y
+5502	https://es.wikipedia.org/wiki/Sophie_Nélisse	ES	¿En qué película interpretó Sophie Nélisse el papel de Liesel Meminger?	Qwen/Qwen2-7B-Instruct	"Sophie Nélisse interpretó el papel de Liesel Meminger en la película ""La Lista de Schindler"" (The Book Thief) de 2013."	Sophie Nélisse	n	y
+1442	https://es.wikipedia.org/wiki/The_Punisher_(serie_de_televisión)	ES	¿En que plataforma se lanzó la serie de televisión The Punisher?	Iker/Llama-3-Instruct-Neurona-8b-v2	La serie de televisión The Punisher fue lanzada en la plataforma Netflix.	制裁者 (電視劇)	n	y
+6265	https://es.wikipedia.org/wiki/HMY_Britannia_(1954)	ES	¿Cuál fue el último yate real de la Corona británica?	Qwen/Qwen2-7B-Instruct	El último yate real de la Corona británica es el Britannia. Fue un buque de guerra de la Royal Navy que se convirtió en el yate oficial del Rey Jorge VI y, después, de su hijo, el Rey Eduardo VIII. Sin embargo, Eduardo VIII renunció al trono antes de que pudiera utilizar el yate. Posteriormente, el yate pasó a ser utilizado por el Rey Jorge VI y su familia. Después de la muerte de Jorge VI en 1952, el yate continuó siendo utilizado por su sucesor, el Rey Federico, hasta que fue retirado del servicio activo en 1994.	HMY Britannia	n	y
+6109	https://es.wikipedia.org/wiki/David_F._Sandberg	ES	¿Qué hacía David F. Sandberg antes de ser famoso y cómo llegó a la fama?	Iker/Llama-3-Instruct-Neurona-8b-v2	"Antes de ser famoso, David F. Sandberg era un actor y artista de acrobacias. Comenzó su carrera como actor en 1996 y apareció en varios programas de televisión y películas. Sin embargo, ganó fama como director con su película de horror ""Annabelle"" en 2014. La película fue un gran éxito y le valió elogios de la crítica, lo que llevó a que dirigiera su secuela ""Annabelle: Creation"" en 2017. Su trabajo como director le valió una mayor reconocimiento y lo llevó a dirigir la película de DC ""Shazam!"" en 2019."	David F. Sandberg	n	y
+2288	https://es.wikipedia.org/wiki/Ecociudad	ES	¿Cuál es una característica principal de una ciudad sostenible?	Iker/Llama-3-Instruct-Neurona-8b-v2	Una característica principal de una ciudad sostenible es su capacidad para satisfacer las necesidades del presente sin comprometer la capacidad de las generaciones futuras para satisfacer sus propias necesidades. Esto se logra a través de la gestión eficiente de recursos, la reducción de residuos y la promoción del uso de energías renovables. Las ciudades sostenibles también priorizan la equidad social, económica y ambiental, asegurando que todos los residentes tengan acceso a recursos esenciales como el agua limpia, la comida saludable y el alojamiento asequible. Además, las ciudades sostenibles fomentan el transporte público, la caminata y el ciclismo para reducir las emisiones de carbono y mejorar la calidad del aire.	Sustainable city	n	n
+6010	https://es.wikipedia.org/wiki/Real_Madrid_Castilla_Club_de_Fútbol	ES	¿Cuántos presidentes ha tenido el club de football español Real Madrid Castilla?	Qwen/Qwen2-7B-Instruct	"Hasta la fecha actual, el Club de Fútbol Real Madrid Castilla ha tenido varios presidentes. Sin embargo, es importante mencionar que los nombres y fechas pueden variar dependiendo del momento en que se haga la consulta. Te recomendaría verificar la información más reciente en una fuente confiable para obtener datos precisos. 
+
+Algunos de los presidentes más recientes del Real Madrid Castilla incluyen a:
+
+1. Jesús Pérez (2019 - actualidad)
+2. Jorge Nocedal (2015-2019)
+3. Miguel Torres (2014-2015)
+4. José María Aznar (2013-2014)
+5. Jesús Pérez (2011-2013)
+
+Por favor, revisa las fuentes más recientes para obtener la información más actualizada."	Real Madrid Castilla	n	y
+1664	https://es.wikipedia.org/wiki/Sirope_de_chocolate	ES	¿Cuál es el ingrediente principal del jarabe o sirope de chocolate?	Iker/Llama-3-Instruct-Neurona-8b-v2	El ingrediente principal del sirope o jarabe de chocolate es el cacao en polvo.	巧克力糖漿	n	n
+1800	https://es.wikipedia.org/wiki/Rothbach	ES	¿En qué región de Francia esta ubicado Rothbach?	Iker/Llama-3-Instruct-Neurona-8b-v2	Rothbach está ubicado en la región de Alsacia, en el noreste de Francia.	罗特巴克	n	n
+1987	https://es.wikipedia.org/wiki/Paradoja_francesa	ES	"¿A qué hace referencia la llamada ""paradoja francesa"" en teoría nutricional?"	Iker/Llama-3-Instruct-Neurona-8b-v2	"La ""paradoja francesa"" en teoría nutricional se refiere a la observación de que las poblaciones de Francia tienen una alta ingesta de grasas saturadas y colesterol en su dieta, pero una baja incidencia de enfermedades cardiovasculares. Esta paradoja ha llevado a los investigadores a cuestionar la relación directa entre la ingesta de grasas saturadas y colesterol y el riesgo de enfermedades cardiovasculares."	French paradox	n	n
+2412	https://es.wikipedia.org/wiki/(5757)_Tichá	ES	¿Alrededor de qué cuerpo celeste orbita el asteroide (5757) Tichá?	Iker/Llama-3-Instruct-Neurona-8b-v2	El asteroide (5757) Tichá orbita alrededor del Sol.	小行星5757	n	n
+5132	https://es.wikipedia.org/wiki/Laurance_Rockefeller	ES	¿Qué fondo administró Laurance Rockefeller entre 1940 y 1982?	Qwen/Qwen2-7B-Instruct	"Laurance Rockefeller administró el ""Fondo Permanente de Conservación"" (Conservation Endowment Fund) entre 1940 y 1982. Este fondo fue creado para financiar la conservación del medio ambiente y la educación ambiental. Es conocido por ser uno de los primeros fondos de conservación en Estados Unidos."	Laurance Rockefeller	n	y
+4741	https://es.wikipedia.org/wiki/Speichersdorf	ES	¿En dónde está ubicado Speichersdorf?	meta-llama/Meta-Llama-3-8B-Instruct	Speichersdorf es un municipio ubicado en el distrito de Bayreuth, en el estado alemán de Baviera, Alemania.	Speichersdorf	n	n
+6240	https://es.wikipedia.org/wiki/Bahram_I	ES	¿Quién fue Bahram I?	Qwen/Qwen2-7B-Instruct	Bahram I fue un rey del antiguo Imperio Persa que gobernó de 420 a 421 d.C. como el segundo rey del reino de Ardashir I. Bahram I es conocido por su breve reinado y por ser derrotado y asesinado en la batalla de Reshtak contra los hunos liderados por Attila. A pesar de su corta vida como rey, Bahram I tuvo un impacto significativo en la historia del antiguo Irán.	巴赫拉姆一世	n	y
+6270	https://es.wikipedia.org/wiki/Pueblo_alamán	ES	¿Quiénes fueron los Alemanner o Alamanes?	Qwen/Qwen2-7B-Instruct	"Los Alamanes, también conocidos como Alemanes, son una etnia que se originó en el este de Francia y el oeste de Alemania durante la Edad Media. La región de origen de los alamanes es conocida como el Alto Rin, que incluye partes de lo que hoy son Francia, Alemania y Suiza.
+
+La denominación ""Alamán"" proviene del nombre de los Alamannos, una tribu germánica que habitaba la región mencionada antes de la llegada de los francos. Los Alamannos eran conocidos por su lengua, la alamana, que fue una de las primeras lenguas germánicas escritas.
+
+A medida que avanzaba el tiempo, los alamanes se convirtieron en una de las principales regiones de habla alemana en Europa. Hoy en día, la mayoría de los alamanes viven en Alemania, pero también se encuentran en Austria, Suiza, Liechtenstein y partes de Bélgica y Luxemburgo. Además, hay comunidades significativas de alamanes en otros países, como los Estados Unidos y Australia. 
+
+Los alamanes han tenido un gran impacto en la cultura europea, contribuyendo a la ciencia, la filosofía, la literatura y la música, entre otras áreas."	Alemanner	n	y
+1084	https://es.wikipedia.org/wiki/Pontificia_Universidad_Gregoriana	ES	¿Quién es el fundador de la Pontificia Universidad Gregoriana?	meta-llama/Meta-Llama-3-8B-Instruct	"La Pontificia Universidad Gregoriana fue fundada en 1551 por San Ignacio de Loyola, el fundador de la Compañía de Jesús, y por el cardenal Gian Pietro Carafa, que más tarde se convertiría en el papa Paulo IV. La universidad se estableció en Roma, Italia, y originalmente se llamó ""Collegio Romano"". En 1584, el papa Sixto V la elevó a la categoría de universidad y le dio el nombre de ""Università Gregoriana"", en honor al papa Gregorio XIII, que había sido un protector de la Compañía de Jesús."	宗座额我略大学	n	y
+3196	https://es.wikipedia.org/wiki/Cosmolog%C3%ADa_observacional	ES	 ¿Qué estudia la cosmología observacional?	Iker/Llama-3-Instruct-Neurona-8b-v2	La cosmología observacional es el estudio científico del universo físico, utilizando métodos y herramientas de observación para recopilar datos sobre su estructura, composición y evolución. Esto incluye el estudio de objetos celestes como galaxias, estrellas, planetas y agujeros negros, así como fenómenos como la radiación de fondo cósmico de microondas, la radiación de rayos gamma y la materia oscura y energía oscura. La cosmología observacional también implica el uso de telescopios, radiotelescopios y otros instrumentos para recopilar datos sobre el universo, y el uso de modelos matemáticos y simulaciones para interpretar y analizar estos datos. El objetivo final de la cosmología observacional es entender la historia, estructura y destino del universo.	观测宇宙学	n	n
+3721	https://es.wikipedia.org/wiki/Dissidia:_Final_Fantasy	ES	"¿En qué consola se lanzó por primera vez ""Dissidia: Final Fantasy""?"	meta-llama/Meta-Llama-3-8B-Instruct	"""Dissidia: Final Fantasy"" se lanzó por primera vez en la consola portátil PlayStation Portable (PSP) en 2008."	Dissidia: Final Fantasy	n	n
+2798	https://es.wikipedia.org/wiki/Pleiotrop%C3%ADa	ES	¿Qué es la pleiotropía en genética?	Qwen/Qwen2-7B-Instruct	"La pleiotropía en genética se refiere a un fenómeno donde una sola aleación genética (un solo gen) tiene efectos sobre dos o más características o fenotipos diferentes. Por ejemplo, un solo gen puede controlar tanto el color de los ojos como la altura de un individuo. Este término proviene del griego ""pleiotropos"", que significa ""muchas frutas"", para indicar que un solo gen puede tener muchos efectos."	Pléiotropie	n	y
+3497	https://es.wikipedia.org/wiki/(5757)_Tichá	ES	¿Alrededor de qué cuerpo celeste orbita el asteroide (5757) Tichá?	meta-llama/Meta-Llama-3-8B-Instruct	Según los datos de la NASA, el asteroide (5757) Tichá orbita alrededor del Sol.	小行星5757	n	y
+5796	https://es.wikipedia.org/wiki/Imperio	ES	¿Cuál es el concepto de imperio?	meta-llama/Meta-Llama-3-8B-Instruct	"El concepto de imperio se refiere a un estado o organización política que tiene una gran cantidad de territorio y población bajo su control, y que ejerce una influencia significativa sobre los asuntos internos y externos de otros estados o regiones. Un imperio suele tener una estructura jerárquica, con un centro de poder y autoridad que se extiende a través de una red de administradores y funcionarios que implementan las decisiones del gobierno central.
+
+Los imperios suelen tener varias características comunes:
+
+1. Amplio territorio: Un imperio suele abarcar un área geográfica grande, que puede incluir varios países, regiones o continentes.
+2. Población diversa: Un imperio puede tener una población diversa, compuesta por personas de diferentes etnias, religiones, lenguas y culturas.
+3. Autoridad centralizada: Un imperio tiene una autoridad centralizada que toma decisiones y ejerce control sobre el territorio y la población.
+4. Dominio sobre otros estados: Un imperio puede tener dominio sobre otros estados o regiones, lo que le permite influir en sus asuntos internos y externos.
+5. Economía y recursos: Un imperio puede tener una economía y recursos significativos, lo que le permite mantener su poder y influencia.
+
+Los imperios han sido una parte importante de la historia humana, y han sido creados y mantenidos por diferentes razones, como la expansión económica, la búsqueda de recursos, la expansión política, la defensa nacional o la búsqueda de gloria y poder.
+
+Algunos ejemplos de imperios a lo largo de la historia incluyen:
+
+* El Imperio Romano
+"	帝国	n	n
+1473	https://es.wikipedia.org/wiki/Parálisis_cerebral	ES	¿Qué caracteristicas presenta una parálisis cerebral?	Iker/Llama-3-Instruct-Neurona-8b-v2	"La parálisis cerebral es un grupo de trastornos neurológicos que afectan el movimiento y la coordinación muscular. Las características de la parálisis cerebral pueden variar ampliamente dependiendo de la causa subyacente y las áreas específicas del cerebro que se ven afectadas. Algunas características comunes incluyen:
+
+1. Debilidad muscular: Los músculos pueden ser débiles, particularmente en los brazos y las piernas, lo que dificulta el movimiento y la realización de actividades diarias.
+
+2. Movimientos anormales: Los individuos con parálisis cerebral pueden tener movimientos involuntarios, como temblores, espasmos o movimientos de tipo de acrónimo, que pueden ser dolorosos y dificultar el movimiento.
+
+3. Dificultades de la marcha y el equilibrio: La parálisis cerebral puede afectar la capacidad de caminar, mantener el equilibrio y coordinar los movimientos de las piernas.
+
+4. Problemas de la coordinación: Los individuos con parálisis cerebral pueden tener dificultades con movimientos precisos, como alcanzar para agarrar un objeto o escribir.
+
+5. Dificultades de la habla y la deglución: La parálisis cerebral puede afectar los músculos involucrados en la habla y la deglución, lo que lleva a un habla entrecortada, dificultad para hablar o tragar.
+
+6. Problemas sensoriales: Algunas personas con parálisis cerebral pueden experimentar problemas sensoriales, como una sensación de hormigueo o entumecimiento en las manos o los pies.
+
+7. Convulsiones: Algunas formas de parálisis cerebral están asociadas con convulsiones, que pueden ser desencadenadas por el estrés, el esfuerzo físico o cambios en el entorno.
+
+8. Dificultades cognitivas: Aunque la mayoría de las personas con parálisis cerebral tienen inteligencia normal, algunas pueden tener dificultades con la atención, la memoria y la resolución de problemas.
+
+La gravedad de estas características puede variar ampliamente, desde leve a severa, y muchos individuos con parálisis cerebral pueden tener solo unos pocos síntomas. El tratamiento y la terapia pueden ayudar a gestion"	腦性麻痺	n	y
+5088	https://es.wikipedia.org/wiki/Retrónimo	ES	¿Qué es un retrónimo?	Qwen/Qwen2-7B-Instruct	"Un retrónimo es una palabra que se utiliza para nombrar algo que tiene la misma función que otra palabra, pero con un significado o uso ligeramente diferente. En otras palabras, es una palabra que ""retrona"" o cambia el significado de otra palabra. Por ejemplo, en inglés, ""bank"" puede referirse tanto a un banco financiero como a la orilla de un río, y la palabra ""banker"" puede referirse tanto a un banquero como a alguien que ayuda a construir una pila de arena en la playa."	Retronym	m	y
+4305	https://es.wikipedia.org/wiki/Murero	ES	¿En qué comunidad autónoma de España está localizado Murero?	meta-llama/Meta-Llama-3-8B-Instruct	Murero es un municipio situado en la comunidad autónoma de Aragón, España.	Murero	n	y
+2436	https://es.wikipedia.org/wiki/Dissidia:_Final_Fantasy	ES	"¿En qué consola se lanzó por primera vez ""Dissidia: Final Fantasy""?"	Iker/Llama-3-Instruct-Neurona-8b-v2	"""Dissidia: Final Fantasy"" fue lanzado por primera vez en la consola PlayStation Portable (PSP)."	Dissidia: Final Fantasy	n	n
+6218	https://es.wikipedia.org/wiki/International_Klein_Blue	ES	¿Qué es el International Klein Blue y cuál es el origen de su nombre?	Qwen/Qwen2-7B-Instruct	"El International Klein Blue, también conocido como IKB, es un color particularmente intenso y azul oscuro que fue desarrollado por el artista y fotógrafo Georges Mathieu en colaboración con el pintor Yves Klein. Este color se caracteriza por su tono azul profundo y su brillo metálico.
+
+El nombre ""International Klein Blue"" se originó cuando Klein presentó sus pinturas azules en una exposición en París en 1957. Algunos críticos y compradores extranjeros se confundieron y creyeron que Klein estaba vendiendo pinturas de un color azul que era internacionalmente reconocido, por lo que le llamaron ""International Klein Blue"". 
+
+Después de esto, el color se convirtió en un objeto de deseo para muchos coleccionistas y artistas, y se ha utilizado en una variedad de contextos, desde la pintura hasta la moda y la decoración de interiores. Sin embargo, es importante mencionar que el color exacto del IKB puede variar ligeramente dependiendo de la técnica utilizada para producirlo y de las condiciones de luz en las que se ve."	國際奇連藍	n	y
+1623	https://es.wikipedia.org/wiki/Corcorax_melanorhamphos	ES	¿Cuál es el único continente en el que habitan los corvinos negros (Corcorax melanorhamphos)?	Iker/Llama-3-Instruct-Neurona-8b-v2	Los corvinos negros (Corcorax melanorhamphos) son nativos de Australia.	White-winged chough	n	n
+1122	https://es.wikipedia.org/wiki/Moritz_Volz	ES	¿En qué equipo jugaba Moritz Volz y en qué posición?	Iker/Llama-3-Instruct-Neurona-8b-v2	Moritz Volz es un exfutbolista alemán que jugó como delantero. A lo largo de su carrera, jugó para varios clubes, incluyendo Bayern Munich, Fulham, Stuttgart y Schalke. Volz también representó a la selección nacional alemana en varias categorías de edad antes de retirarse del fútbol profesional en 2012.	莫里茨·福尔茨	n	y
+5887	https://es.wikipedia.org/wiki/Delley-Portalban	ES	¿En qué cantón suizo se encuentra la comuna de Delley-Portalban?	Qwen/Qwen2-7B-Instruct	La comuna de Delley-Portalban se encuentra en el cantón de Jura en Suiza.	Delley-Portalban	n	y
+2325	https://es.wikipedia.org/wiki/Adolf_Galland	ES	¿En qué guerras participó Adolf Galland?	Iker/Llama-3-Instruct-Neurona-8b-v2	Adolf Galland participó en la Primera Guerra Mundial, sirviendo en el ejército alemán. Más tarde, durante la Segunda Guerra Mundial, se convirtió en un comandante de la Luftwaffe, la fuerza aérea alemana.	阿道夫·加兰德	n	y
+4313	https://es.wikipedia.org/wiki/Chun_Jung-myung	ES	¿Cuál fue la primera serie de television en la que participó el actor surcoreano  Chun Jung-myung?	meta-llama/Meta-Llama-3-8B-Instruct	"Según mi investigación, la primera serie de televisión en la que participó el actor surcoreano Chun Jung-myung fue ""School 2"" (, Hakgyo 2), que se emitió en 1995."	Chun Jung-myung	n	y
+3060	https://es.wikipedia.org/wiki/Poospiza_baeri	ES	¿Qúe tipo de animal es el Poospiza baeri?	Qwen/Qwen2-7B-Instruct	El Poospiza baeri es un tipo de ave. Específicamente, es una especie de paseriforme que pertenece a la familia Tyrannidae, que también incluye a los tiroideos. Esta especie se encuentra en algunas regiones de Sudamérica.	Tucumántangara	y	y
+4858	https://es.wikipedia.org/wiki/Bert_Olmstead	ES	¿En qué equipos de la NHL jugó Bert Olmstead durante su carrera?	Iker/Llama-3-Instruct-Neurona-8b-v2	Bert Olmstead jugó para los Montreal Canadiens, Toronto Maple Leafs y Detroit Red Wings en la NHL.	Bert Olmstead	n	y
+4165	https://es.wikipedia.org/wiki/Estudio_de_casos_y_controles	ES	¿Para qué se usa un estudio de casos y controles en epidemiología?	meta-llama/Meta-Llama-3-8B-Instruct	"Un estudio de casos y controles es una técnica utilizada en epidemiología para investigar la relación entre un factor de riesgo (o exposición) y una enfermedad o condición de salud. Se utiliza para evaluar la asociación entre un factor de riesgo y una enfermedad, y para determinar si el factor de riesgo es un predictor de la enfermedad.
+
+En un estudio de casos y controles, se seleccionan dos grupos de personas:
+
+* Grupo de casos: personas que han desarrollado la enfermedad o condición de salud que se está estudiando.
+* Grupo de controles: personas que no han desarrollado la enfermedad o condición de salud, pero que comparten características similares con el grupo de casos, como edad, género, ubicación geográfica, etc.
+
+El objetivo es comparar las características y exposiciones entre los dos grupos para determinar si hay una asociación significativa entre el factor de riesgo y la enfermedad. Si se encuentra una asociación significativa, se puede inferir que el factor de riesgo es un predictor de la enfermedad.
+
+Los estudios de casos y controles se utilizan para:
+
+1. Evaluar la asociación entre un factor de riesgo y una enfermedad: se puede determinar si el factor de riesgo es un predictor de la enfermedad y cuál es la magnitud de la asociación.
+2. Identificar los factores de riesgo: se puede determinar qué factores de riesgo están asociados con la enfermedad y cuál es la importancia de cada factor.
+3. Evaluar la causalidad: se puede determinar si el factor de riesgo es una causa probable de la enfermedad.
+4. Identificar los grupos de riesgo: se puede determinar qué grupos de personas están más expuestos al factor de riesgo y, por lo tanto, están más propensos a desarrollar la enfermedad.
+5. Evaluar la efectividad de intervenciones: se puede determinar si una intervención específica reduce el riesgo de desarrollar la enfermedad.
+
+Los estudios de casos y controles tienen varias ventajas, como:
+
+* Son más fáciles y más baratos que otros tipos de estudios, como los estudios de cohortes.
+* Pueden ser utilizados para estudiar enfermedades raras o poco comunes.
+* Pueden ser utilizados para estudiar la asociación entre un factor de ries"	Étude cas-témoins	n	y
+2993	https://es.wikipedia.org/wiki/Adolf_Galland	ES	¿En qué guerras participó Adolf Galland?	Qwen/Qwen2-7B-Instruct	"Adolf Galland fue un piloto de cazas y luego comandante de la Luftwaffe, la fuerza aérea alemana, durante la Segunda Guerra Mundial. Durante este conflicto, Galland participó en varias batallas y operaciones, incluyendo la Batalla de Inglaterra y la Batalla de Francia. También estuvo involucrado en la Operación Barbarroja, la invasión de la Unión Soviética. 
+
+Además, Galland es conocido por su papel en la formación de la ""Escuadrilla Blitzkrieg"" o ""Escuadrilla Escuadrón"", una unidad de entrenamiento para nuevos pilotos que se convirtió en una de las más exitosas de la Luftwaffe.
+
+Es importante mencionar que, a pesar de ser un destacado piloto de combate, Galland también ha sido criticado por su papel en la persecución y ejecución de civiles y prisioneros de guerra en Polonia y otros territorios ocupados durante la guerra."	阿道夫·加兰德	n	y
+4355	https://es.wikipedia.org/wiki/Aston_Martin_Vanquish	ES	¿En qué años se produjo la primera generación del Aston Martin Vanquish?	Qwen/Qwen2-7B-Instruct	La primera generación del Aston Martin Vanquish se produjo entre los años 1997 y 2002.	阿斯顿·马丁V12 Vanquish	n	y
+2642	https://es.wikipedia.org/wiki/Campeonato_Mundial_de_Taekwondo	ES	¿En qué año se celebró el primer Campeonato Mundial de Taekwondo femenino?	meta-llama/Meta-Llama-3-8B-Instruct	El primer Campeonato Mundial de Taekwondo femenino se celebró en 1975 en Seúl, Corea del Sur.	Världsmästerskapen i taekwondo	n	y
+888	https://es.wikipedia.org/wiki/Moritz_Volz	ES	¿En qué equipo jugaba Moritz Volz y en qué posición?	Qwen/Qwen2-7B-Instruct	Moritz Volz es un exfutbolista alemán que jugó como defensa. Durante su carrera, jugó para varios equipos, incluyendo al 1. FC Kaiserslautern, donde ganó la Copa de Europa en 1988. También jugó para el Bayern de Múnich y el Eintracht Frankfurt. Además, representó a Alemania en la Copa Mundial de Fútbol de 1990.	莫里茨·福尔茨	n	y
+6591	https://es.wikipedia.org/wiki/Fens	ES	¿Cómo protegen de inundaciones a las zonas de marisma ubicadas en Inglaterra conocidas como los Fens o Fenland?	Qwen/Qwen2-7B-Instruct	"Los Fens, también conocidos como Fenland, son una serie de áreas pantanosas que se encuentran en el este de Inglaterra. Para proteger estas áreas de inundaciones, se han implementado varias medidas:
+
+1. **Regulación del agua**: Se utilizan sistemas de regadío y drenaje para controlar la cantidad de agua en las tierras pantanosas. Esto ayuda a prevenir inundaciones al asegurarse de que no haya demasiada agua acumulándose.
+
+2. **Barreras y diques**: Se han construido diques y barreras para contener el agua del mar y evitar que se filtre hacia las tierras adyacentes. Estos diques son especialmente importantes en las zonas más bajas y vulnerables a las inundaciones.
+
+3. **Canales de drenaje**: Los canales de drenaje son una parte esencial del sistema de protección contra inundaciones en los Fens. Estos canales permiten que el agua extra de las tierras se desplace hacia el mar o ríos más grandes.
+
+4. **Muros de contención**: En algunas áreas, se han construido muros de contención para mantener el agua fuera de las tierras agrícolas y urbanas.
+
+5. **Proyectos de restauración**: En los últimos años, se han llevado a cabo proyectos de restauración de los pantanos naturales. Los pantanos naturales pueden ayudar a retener el agua durante las lluvias intensas, lo que puede disminuir el riesgo de inundaciones.
+
+6. **Planificación urbana y construcción de edificios altos**: Al diseñar nuevas áreas urbanas, se toman medidas para asegurar que los edificios y las infraestructuras estén construidos en alturas que minimicen el riesgo de inundaciones.
+
+7. **Sistemas de alerta temprana**: Existen sistemas de alerta temprana para informar a las personas de posibles inundaciones, permitiéndoles prepararse y evacuar si es necesario.
+
+Estas medidas combinadas ayudan a proteger los Fens y las zonas circundantes de los daños causados por las inundaciones."	The Fens	n	y
+1917	https://es.wikipedia.org/wiki/Kaiser_Chiefs	ES	¿Cuándo dejó Nick Hodgson los Kaiser Chiefs?	Iker/Llama-3-Instruct-Neurona-8b-v2	Nick Hodgson dejó la banda Kaiser Chiefs en 2012.	凱撒首領	n	n
+3750	https://es.wikipedia.org/wiki/White_Collar	ES	¿Cuántas temporadas tiene la serie de televisión estadounidense White Collar?	Qwen/Qwen2-7B-Instruct	La serie de televisión estadounidense White Collar tiene 5 temporadas.	White Collar (TV series)	n	y
+3893	https://es.wikipedia.org/wiki/NES_Classic_Edition	ES	¿Qué diferencía a la edición Shonen Jump de la NES Classic Edition?	Qwen/Qwen2-7B-Instruct	"La edición Shonen Jump de la NES Classic Edition y la versión original de la NES Classic Edition difieren principalmente en cuanto a los juegos que incluyen.
+
+1. **Géneros de Juegos**: La edición Shonen Jump de la NES Classic Edition incluye una selección de juegos de popularidad entre los fans de anime y manga, como ""Dragon Ball"", ""Naruto"" y ""One Piece"". En cambio, la NES Classic Edition original ofrece una variedad más amplia de títulos clásicos de NES, incluyendo juegos de todo tipo como plataformas, aventuras, deportes y estrategia.
+
+2. **Contenido de los Juegos**: Los juegos en la edición Shonen Jump de la NES Classic Edition suelen tener contenido extra relacionado con los personajes y las historias de los mangas y animes. Por ejemplo, el juego de ""Dragon Ball"" permite al jugador jugar como diferentes personajes de la serie. Los juegos de la NES Classic Edition original no tienen este tipo de contenido adicional.
+
+3. **Disponibilidad**: La edición Shonen Jump de la NES Classic Edition es más difícil de encontrar y suele ser más cara debido a su enfoque más específico y su menor producción.
+
+4. **Target Audience**: La edición Shonen Jump de la NES Classic Edition está dirigida a fanáticos de los animes y mangas, mientras que la NES Classic Edition original es más general y puede ser atractiva para un público más amplio.
+
+Es importante tener en cuenta que estas diferencias pueden variar dependiendo de la región, ya que algunos juegos específicos pueden variar."	迷你红白机	n	y
+4472	https://es.wikipedia.org/wiki/Cueva_Veri%C3%B3vkina	ES	¿En qué país se encuentra la cueva Veryovkina?	meta-llama/Meta-Llama-3-8B-Instruct	La cueva Veryovkina se encuentra en Georgia, un país ubicado en el Cáucaso, en el este de Europa.	韦廖夫金洞穴	n	n
+6360	https://es.wikipedia.org/wiki/Ecociudad	ES	¿Cuál es una característica principal de una ciudad sostenible?	Iker/Llama-3-Instruct-Neurona-8b-v2	Una característica principal de una ciudad sostenible es su capacidad para proporcionar a sus residentes una alta calidad de vida mientras minimiza su impacto ambiental. Esto se logra a través de la implementación de prácticas ecológicas como la reducción de las emisiones de gases de efecto invernadero, la conservación de recursos naturales y la promoción del transporte sostenible. Las ciudades sostenibles también priorizan el uso eficiente de la energía, la reducción de residuos y la promoción de la equidad social y económica para todos los residentes.	Sustainable city	n	n
+6646	https://es.wikipedia.org/wiki/Waldweiler	ES	¿Dónde está ubicado Waldweiler?	Qwen/Qwen2-7B-Instruct	Waldweiler está ubicado en Alemania, específicamente en el estado de Renania-Palatinado. Se encuentra en la región del Rin Norte.	瓦尔德韦勒	n	y
+2068	https://es.wikipedia.org/wiki/Bleeding_Kansas	ES	¿Cómo se le conoce al evento predecesor de la guerra de secesión o guerra civil estadounidense que ocurrió en Kansas?	Qwen/Qwen2-7B-Instruct	"El evento predecesor de la guerra de secesión o guerra civil estadounidense que ocurrió en Kansas se conoce como ""La Guerra del Kansas"" o ""Bleeding Kansas""."	Bleeding Kansas	n	n
+5242	https://es.wikipedia.org/wiki/Armada_de_Suecia	ES	¿Qué rey sueco inició la armada de Suecia?	Iker/Llama-3-Instruct-Neurona-8b-v2	El rey sueco que inició la Armada de Suecia fue Gustav II Adolf, también conocido como Gustav II Adolfo el Victorioso. Fue el rey de Suecia desde 1611 hasta 1632.	Swedish Navy	n	y
+6004	https://es.wikipedia.org/wiki/Sweet_Home_Alabama_(pel%C3%ADcula)	ES	"¿Con qué premios fue galardonada la palícula estadounidense ""Sweet Home alabama""?"	Qwen/Qwen2-7B-Instruct	"La película estadounidense ""Sweet Home Alabama"" no ha ganado ningún premio importante en festivales de cine o academias como la Academia (Oscar) o la Asociación de Actores de Hollywood (SAG). Sin embargo, algunas de las actrices y el director han recibido reconocimientos por su trabajo en otras películas. Si te refieres a algún premio específico que la película haya ganado, podría ser un premio menor o una nominación en un festival de cine regional o en una asociación de críticos de cine local. Te recomendaría revisar la lista completa de premiaciones de la película para obtener información más precisa."	美麗蹺佳人	n	y
+4809	https://es.wikipedia.org/wiki/Gampel-Bratsch	ES	¿Cuándo fue creada la comuna suiza Gampel-Bratsch?	Iker/Llama-3-Instruct-Neurona-8b-v2	La comuna suiza de Gampel-Bratsch fue creada el 1 de julio de 2011. Fue formada por la fusión de las comunas de Gampel y Bratsch.	Gampel-Bratsch	n	y
+6117	https://es.wikipedia.org/wiki/Nimravidae	ES	¿Qué son los nimrávidos (Nimravidae)?	Qwen/Qwen2-7B-Instruct	"Los nimrávidos, o Nimravidae, son una familia de gatos extintos que vivieron durante el Mioceno y el Plioceno, hace entre 23 y 5 millones de años. Son conocidos principalmente por sus dientes y mandíbulas poderosos, lo que sugiere que eran carnívoros fuertes y potentes cazadores.
+
+Los nimrávidos se caracterizaban por tener un cuerpo largo y delgado, con patas largas y fuertes, y una cola larga y robusta. Algunos de ellos alcanzaron tamaños significativos, con especies como el Nimravus batesi pesando hasta 100 kilogramos.
+
+Aunque se consideran gatos, los nimrávidos no están directamente relacionados con los gatos modernos. En cambio, están más cerca de los leones y las panteras en la árbol de la vida de los mamíferos. 
+
+Los fósiles de los nimrávidos se han encontrado principalmente en América del Norte, aunque también se han encontrado ejemplos en Asia."	獵貓科	n	y
+2404	https://es.wikipedia.org/wiki/Monterchi	ES	¿En qué región italiana se encuentra Monterchi?	Iker/Llama-3-Instruct-Neurona-8b-v2	Monterchi se encuentra en la región italiana de Toscana.	Monterchi	n	n
+1386	https://es.wikipedia.org/wiki/David_F._Sandberg	ES	¿Qué hacía David F. Sandberg antes de ser famoso y cómo llegó a la fama?	Qwen/Qwen2-7B-Instruct	"David F. Sandberg es un director, guionista y actor canadiense que ha ganado fama principalmente por su trabajo en el cine de terror. Antes de convertirse en famoso, Sandberg trabajó como diseñador gráfico y director de videos musicales.
+
+Nació el 24 de noviembre de 1980 en Vancouver, Canadá. Aunque siempre tuvo una pasión por el cine, no decidió dedicarse profesionalmente hasta más tarde. Trabajó como diseñador gráfico y también dirigió varios videos musicales para artistas locales.
+
+Su fama comenzó con su corto ""Hush"" (Callado) en 2013, que se volvió viral en YouTube. Este corto, que cuenta la historia de un hombre sordo que es atacado por un asaltante, fue dirigido y escrito por Sandberg. La popularidad del corto llevó a Sandberg a firmar un contrato de dos películas con Warner Bros. para adaptar a la gran pantalla al personaje de la DC Comics, Shazam!
+
+La película ""Shazam!"" fue lanzada en 2019 y recibió críticas positivas tanto por parte del público como de los críticos. Esto ayudó a consolidar aún más la fama de Sandberg en Hollywood.
+
+Además de ""Shazam!"", Sandberg también ha dirigido otras películas de terror exitosas como ""Lights Out"" (Salida de luz) en 2016 y ""Annabelle: Creepypasta"" en 2017. 
+
+En resumen, la fama de David F. Sandberg se debe a su habilidad para crear contenido viral en YouTube y su talento para dirigir películas de terror y superhéroes que han tenido éxito tanto en taquilla como en crítica."	David F. Sandberg	n	y
+4252	https://es.wikipedia.org/wiki/(661)_Clelia	ES	¿ Quién descubrió el asteroide (661) Clelia?	meta-llama/Meta-Llama-3-8B-Instruct	El asteroide (661) Clelia fue descubierto el 22 de marzo de 1908 por el astrónomo italiano Luigi Carnera en Heidelberg, Alemania.	(661) Clélie	n	y
+6690	https://es.wikipedia.org/wiki/Turfán	ES	¿En qué región autónoma China está bicada la ciudad de Turfán?	Qwen/Qwen2-7B-Instruct	La ciudad de Turfán se encuentra en la región autónoma de Xinjiang, en China.	吐鲁番市	m	n
+6493	https://es.wikipedia.org/wiki/Paradoja_francesa	ES	"¿A qué hace referencia la llamada ""paradoja francesa"" en teoría nutricional?"	Iker/Llama-3-Instruct-Neurona-8b-v2	"La llamada ""paradoja francesa"" en teoría nutricional hace referencia a la observación de que la población francesa, que consume una dieta rica en grasas saturadas y alimentos fritos, presenta una menor incidencia de enfermedades cardiovasculares en comparación con otras poblaciones con una dieta más baja en grasas saturadas. Esta diferencia en los resultados de salud a pesar de una dieta aparentemente poco saludable se atribuye a varios factores, como la calidad de los alimentos, la forma en que se preparan y consumen, y la presencia de otros nutrientes beneficiosos en la dieta. Además, también se sugiere que el consumo de vino tinto, que es bastante común en Francia, podría desempeñar un papel protector en la salud del corazón. Sin embargo, es importante tener en cuenta que la dieta no es el único factor que influye en la salud de una población, y que otros factores como la genética, el estilo de vida y la atención sanitaria también pueden jugar un papel importante."	French paradox	n	n
+248	https://es.wikipedia.org/wiki/Protestas_en_Perú_de_marzo-abril_de_2022	ES	¿Qué relación tienen las protestas en Perú ocurridas a inicios de 2022 con la pandemia del covid-19?	Qwen/Qwen2-7B-Instruct	"Las protestas en Perú que ocurrieron a principios de 2022 estuvieron relacionadas con una serie de factores, uno de los cuales fue la pandemia del COVID-19. 
+
+La principal causa de las protestas fue el cambio de gobierno y la designación de Pedro Castillo como presidente. Sin embargo, las tensiones se habían acumulado durante meses debido a problemas económicos y políticos. La pandemia del COVID-19 exacerbó estas tensiones ya que la economía peruana sufrió un fuerte impacto debido a las medidas de control de la pandemia.
+
+El cierre de empresas y la pérdida de empleos debido a la pandemia afectaron a muchas personas, lo que llevó a una mayor descontento social. Además, la gestión del gobierno en la lucha contra la pandemia también generó críticas. Muchos ciudadanos se sintieron insatisfechos con la respuesta del gobierno a la crisis sanitaria y económica, lo que contribuyó a la creciente tensión social y política que eventualmente desembocó en las protestas.
+
+Además, la falta de acceso a la vacuna para muchos peruanos también fue un factor importante. Muchos ciudadanos se sentían frustrados por la lentitud del proceso de vacunación y la percepción de que no todos los ciudadanos tenían acceso equitativo a la vacuna.
+
+En resumen, aunque la pandemia del COVID-19 no fue la única causa de las protestas, sí desempeñó un papel importante al agravar las tensiones socioeconómicas y políticas existentes en Perú."	Manifestations de mars-avril 2022 au Pérou	n	y
+474	https://es.wikipedia.org/wiki/Mario_Bolatti	ES	¿En cuántas copas del mundo ha jugado el futbolista Mario Bolatti?	Iker/Llama-3-Instruct-Neurona-8b-v2	Mario Bolatti, futbolista argentino, jugó en una Copa Mundial de la FIFA. Fue convocado por la selección argentina para los mundiales de 2010 realizados en Sudáfrica, donde disputó los partidos de la fase de grupos contra Corea del Sur, Grecia y Nigera.	Mario Bolatti	n	y
+2443	https://es.wikipedia.org/wiki/Cristianismo_sir%C3%ADaco	ES	¿Cuál es la corriente de cristianimo más comunmente praticada en Karala, India?	Iker/Llama-3-Instruct-Neurona-8b-v2	La corriente cristiana más comúnmente practicada en Karala, India es el cristianismo católico romano.	敘利亞基督教	n	y
+1693	https://es.wikipedia.org/wiki/Folorunsho_Alakija	ES	 ¿En qué industrias participa Folorunsho Alakija?	Iker/Llama-3-Instruct-Neurona-8b-v2	Folorunsho Alakija es una empresaria nigeriana que ha participado en varias industrias a lo largo de su carrera. Es más conocida por su participación en la industria petrolera, donde es la propietaria de una participación significativa en la empresa de exploración petrolera, Famfa Oil Limited. Además, Alakija ha invertido en bienes raíces, moda y entretenimiento.	Folorunsho Alakija	n	y
+2159	https://es.wikipedia.org/wiki/Parque_nacional_de_Garajonay	ES	¿Dónde se encuentra el Parque Nacional de Garajonay?	Qwen/Qwen2-7B-Instruct	El Parque Nacional de Garajonay se encuentra en la isla de La Gomera, que es uno de los puertos canarios en España.	加拉霍奈国家公园	n	n
+2660	https://es.wikipedia.org/wiki/Cristianismo_sir%C3%ADaco	ES	¿Cuál es la corriente de cristianimo más comunmente praticada en Karala, India?	meta-llama/Meta-Llama-3-8B-Instruct	"En Kerala, India, la corriente de cristianismo más comúnmente practicada es el catolicismo. Según el censo de 2011, el 26,6% de la población de Kerala se identifica como cristiana, y la mayoría de ellos son católicos.
+
+La Iglesia Católica tiene una larga historia en Kerala, y fue fundada por los apóstoles Tomás y Bartolomé en el siglo I. La diócesis de Cranganur, establecida en el siglo XVI, es una de las más antiguas de la India. La Iglesia Católica tiene una gran influencia en la cultura y la sociedad keralí, y hay muchos santuarios y iglesias importantes en el estado.
+
+Además, hay también una minoría de protestantes en Kerala, especialmente en las áreas urbanas. Las iglesias evangélicas y bautistas son comunes en las ciudades como Kochi y Trivandrum.
+
+En resumen, el catolicismo es la corriente de cristianismo más comúnmente practicada en Kerala, India."	敘利亞基督教	n	y
+334	https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Irán_de_2013	ES	¿Quién ganó las elecciones presidenciales de Irán en 2013?	Qwen/Qwen2-7B-Instruct	En las elecciones presidenciales de Irán en 2013, el candidato que ganó fue Hassan Rouhani.	2013年伊朗总统选举	n	n
+3795	https://es.wikipedia.org/wiki/Anexo:BAFTA_al_mejor_actor_de_reparto	ES	¿Quién ganó el premio BAFTA al mejor actor de reparto en el año 2000 y por qué película?	Qwen/Qwen2-7B-Instruct	"El premio BAFTA al mejor actor de reparto en el año 2000 fue ganado por Geoffrey Rush por su papel en la película ""Elizabeth""."	BAFTA Award for Best Actor in a Supporting Role	n	y
+1254	https://es.wikipedia.org/wiki/Amyema	ES	 ¿Qué tipo de planta es el género Amyema?	Qwen/Qwen2-7B-Instruct	"El género Amyema pertenece a las plantas de la familia de las Proteáceas. Es originario de Australia y se conoce principalmente por una especie en particular, Amyema mackayi, que es comúnmente conocida como ""la flor de los dientes de ballena"". Esta planta es notable por sus grandes hojas que se parecen a los dientes de una ballena."	Amyema	n	y
+4042	https://es.wikipedia.org/wiki/Óvalo	ES	¿Cúal es la diferencia entre un óvalo y un ovoide?	Qwen/Qwen2-7B-Instruct	"Un óvalo y un ovoide son dos términos que se utilizan para describir formas de huevo, pero se refieren a diferentes dimensiones y formas.
+
+Un óvalo es una figura geométrica que es similar a un círculo pero no es perfectamente simétrico en todas las direcciones. Es decir, tiene una forma de ""huevo"" con dos ejes de simetría, siendo uno más largo que el otro. 
+
+Por otro lado, un ovoide es una figura tridimensional que se parece a un huevo. En matemáticas, un ovoide puede referirse a una superficie de revolución generada girando un óvalo alrededor de su eje más corto. Por lo tanto, mientras que un óvalo es una forma bidimensional, un ovoide es una forma tridimensional."	鵝蛋形	n	n
+6204	https://es.wikipedia.org/wiki/Historia_de_Zimbabue	ES	¿A qué países actuales corresponen las dos Rodesias (Rodesia del norte y del sur)?	Qwen/Qwen2-7B-Instruct	"Rodesia del Sur es el nombre que se le dio al territorio que luego se convirtió en Zimbabue, después de la independencia en 1980.
+
+Por otro lado, Rodesia del Norte es un término que no está ampliamente reconocido o utilizado en la actualidad. Sin embargo, podría referirse a partes del territorio que luego se convirtieron en Sudáfrica, Namibia, Botswana y Zimbabwe. Por favor proporciona más contexto para una respuesta más precisa."	津巴布韦历史	n	y
+5902	https://es.wikipedia.org/wiki/Sophie_Nélisse	ES	¿En qué película interpretó Sophie Nélisse el papel de Liesel Meminger?	Qwen/Qwen2-7B-Instruct	"Sophie Nélisse interpretó el papel de Liesel Meminger en la película ""La Lista de Schindler"" (The Book Thief) de 2013."	Sophie Nélisse	n	n
+5978	https://es.wikipedia.org/wiki/Favareta	ES	¿Cómo se llega a Favareta desde Valencia?	Qwen/Qwen2-7B-Instruct	"Para llegar a Favareta desde Valencia, necesitarás un viaje en coche ya que no hay una conexión directa por tren o autobús. Aquí te dejo las instrucciones paso a paso:
+
+1. **Desde Valencia hasta Burjassot**: Toma la A-7 dirección Sur (también conocida como la Autovía del Mediterráneo). 
+
+2. **Desde Burjassot hasta Castellón**: Continúa en la A-7 y luego toma la salida 38 hacia la N-340.
+
+3. **Desde Castellón hasta Alzira**: Sigues en la N-340 hasta llegar a Alzira.
+
+4. **Desde Alzira hasta Cullera**: En Alzira, toma la carretera CV-351 hasta Cullera.
+
+5. **Desde Cullera hasta Favareta**: En Cullera, toma la carretera CV-35 hacia la localidad de Favareta.
+
+El viaje total puede tomar alrededor de una hora y media, dependiendo del tráfico. Recuerda siempre comprobar las condiciones de la carretera y el tiempo antes de iniciar tu viaje."	法瓦拉德拉里韦拉	n	y
+4771	https://es.wikipedia.org/wiki/Turfán	ES	¿En qué región autónoma China está bicada la ciudad de Turfán?	meta-llama/Meta-Llama-3-8B-Instruct	La ciudad de Turfán (en chino, Turpan) se encuentra en la Región Autónoma Uigur de Sinkiang, en el noroeste de China.	吐鲁番市	m	n
+4587	https://es.wikipedia.org/wiki/Cirrostrato	ES	¿Es probable que llueva si veo un cirrostrato?	meta-llama/Meta-Llama-3-8B-Instruct	"La relación entre la presencia de cirrostratos y la probabilidad de lluvia es compleja y depende de varios factores. Los cirrostratos son una capa de nubes altas y finas que se encuentran a alturas de 6-12 km sobre el nivel del mar. A continuación, te presento algunas consideraciones que pueden ayudarte a entender mejor la relación entre cirrostratos y lluvia:
+
+1. **No hay una relación directa**: La presencia de cirrostratos no garantiza la lluvia. Los cirrostratos pueden ser una indicación de una masa de aire seco y estable, lo que reduce la probabilidad de lluvia.
+2. **Influencia en la formación de nubes**: Los cirrostratos pueden influir en la formación de nubes más bajas y más pesadas, como las cumulonimbus, que pueden producir lluvia. Sin embargo, esto no es siempre el caso.
+3. **Presencia de otros factores**: La presencia de otros factores, como la humedad en la atmósfera, la temperatura, la velocidad del viento y la topografía del terreno, también influyen en la probabilidad de lluvia.
+4. **Tipos de cirrostratos**: Hay diferentes tipos de cirrostratos, como los cirrostratos altos y estrechos, que pueden indicar una masa de aire seco y estable, y los cirrostratos más bajos y más anchos, que pueden indicar una mayor probabilidad de lluvia.
+
+En resumen, la presencia de cirrostratos no es una garantía de lluvia, pero puede ser una indicación de que hay condiciones en la atmósfera que pueden influir en la formación de nubes y la precipitación. Para determinar la probabilidad de lluvia, es importante considerar otros factores meteorológicos y utilizar herramientas de predicción meteorológica confiables."	Cirrostratus	n	y
+2331	https://es.wikipedia.org/wiki/Condado_de_Gogebic	ES	¿Cúantas ciudades hay en el condado de Gogebic, Michigan?	Iker/Llama-3-Instruct-Neurona-8b-v2	El condado de Gogebic, Michigan, tiene dos ciudades: Bessemer y Negaunee.	Comté de Gogebic	n	y
+1617	https://es.wikipedia.org/wiki/Cirrostrato	ES	¿Es probable que llueva si veo un cirrostrato?	Iker/Llama-3-Instruct-Neurona-8b-v2	Un cirrostratus es un tipo de nube que a menudo se asocia con condiciones meteorológicas inminentes. Aunque no es una indicación definitiva de lluvia, puede ser un signo de que se está formando una frente meteorológica, lo que podría llevar a precipitación, como lluvia o nieve, en las próximas 12 a 24 horas. Sin embargo, no siempre llueve, y otras condiciones meteorológicas, como la nieve o la granizo, también son posibles.	Cirrostratus	n	n
+2196	https://es.wikipedia.org/wiki/Nava_de_Francia	ES	¿Por qué es conocido el poblado de Nava de Francia?	Qwen/Qwen2-7B-Instruct	"El poblado de Nava de Francia, que está ubicado en la región de Navarra en España, es conocido por varias razones:
+
+1. Historia y Arquitectura: Nava es famoso por su arquitectura medieval. Tiene una iglesia románica del siglo XII, la Iglesia de San Juan Bautista, que es un ejemplo destacado del arte románico en Navarra.
+
+2. Sitio Histórico: Nava ha sido testigo de numerosos eventos históricos. Durante la Guerra Civil Española, fue un lugar clave para los republicanos debido a su posición estratégica.
+
+3. Patrimonio Cultural: El pueblo es reconocido por su patrimonio cultural, incluyendo casas de piedra y calles estrechas que dan un sentido de autenticidad y belleza histórica.
+
+4. Turismo: Nava es un destino popular para los turistas que buscan experiencias de viaje auténticas y llenas de historia. 
+
+5. Gastronomía: La región de Navarra es famosa por su gastronomía, y Nava no es una excepción. Aquí puedes degustar platos tradicionales como la sidra y la tortilla de patatas.
+
+6. Naturaleza: Además de su rica historia y cultura, Nava también ofrece hermosos paisajes naturales, con montañas y ríos que son populares entre los amantes de la naturaleza y los deportes al aire libre."	纳瓦德夫兰西亚	n	y
+4924	https://es.wikipedia.org/wiki/Jomsvikings	ES	¿Entre quiénes se libró la batalla de Svolder?	Iker/Llama-3-Instruct-Neurona-8b-v2	La Batalla de Svolder se libró en 1002 entre varios reyes nórdicos y sus aliados. Los principales participantes fueron el rey Olaf II de Noruega, el rey Sweyn Forkbeard de Dinamarca y el rey Erico el Victorioso de Suecia. La batalla se considera una de las más significativas en la historia vikinga y tuvo un impacto duradero en la política y el paisaje cultural de la región.	約姆斯維京	n	y
+1421	https://es.wikipedia.org/wiki/Cilleruelo_de_San_Mamés	ES	¿Dónde está ubicado Cilleruelo de San Mamés?	Iker/Llama-3-Instruct-Neurona-8b-v2	Cilleruelo de San Mamés está ubicado en la provincia de Burgos, comunidad autónoma de Castilla y León, en España.	Cilleruelo de San Mamés	n	y
+3264	https://es.wikipedia.org/wiki/F.E.A.R.	ES	¿Cuántas secuelas y expansiones del juego F.E.A.R. se comercializaron?	Iker/Llama-3-Instruct-Neurona-8b-v2	"Se han comercializado tres secuelas y dos expansiones del juego F.E.A.R.:
+
+1. F.E.A.R. 2: Project Origin - Esta es la primera secuela del juego original, lanzada en 2009.
+2. F.E.A.R. 3 - La tercera secuela, lanzada en 2011.
+3. F.E.A.R. 4 - La cuarta secuela, lanzada en 2017.
+
+Las expansiones son:
+
+1. F.E.A.R. 2: Armored Response - Esta es una expansión para F.E.A.R. 2: Project Origin, lanzada en 2010.
+2. F.E.A.R. 3: The Soldier - Esta es una expansión para F.E.A.R. 3, lanzada en 2011."	FEAR (jeu vidéo)	n	y
+6895	https://es.wikipedia.org/wiki/Isolobodon_portoricensis	ES	¿Qué tipo de animal es el Isolobodon portoricensis?	Iker/Llama-3-Instruct-Neurona-8b-v2	Isolobodon portoricensis es una especie extinta de mamífero que pertenecía a la familia de los caballos, Equidae. Es conocido comúnmente como el caballo de Antigua.	Isolobodon portoricensis	n	y
+1182	https://es.wikipedia.org/wiki/Chris_Claremont	ES	¿Qué serie de historietas popularizó el guionista Chris Claremont?	Qwen/Qwen2-7B-Instruct	"El guionista Chris Claremont popularizó la serie de historietas ""X-Men""."	Chris Claremont	n	n
+529	https://es.wikipedia.org/wiki/(661)_Clelia	ES	¿ Quién descubrió el asteroide (661) Clelia?	Iker/Llama-3-Instruct-Neurona-8b-v2	El asteroide (661) Clelia fue descubierto por el astrónomo italiano Giovanni Battista Porro el 8 de octubre de 1916.	(661) Clélie	n	y
+6658	https://es.wikipedia.org/wiki/Valeille	ES	¿En qué comuna francesa se encuentra Valeille?	Qwen/Qwen2-7B-Instruct	Valeille se encuentra en la comuna de Châteauvillain, en la región de Bourgogne-Franche-Comté, Francia.	Valeille (Loire)	n	y
+4402	https://es.wikipedia.org/wiki/Ted_Lange	ES	¿Cuál es la profesión de Ted Lange?	meta-llama/Meta-Llama-3-8B-Instruct	"Ted Lange es un actor y director estadounidense, más conocido por su papel como Isaac Washington, el camarero del bar de la nave espacial USS Enterprise, en la serie de televisión ""The Love Boat"" (1977-1986)."	Ted Lange	n	n
+1290	https://es.wikipedia.org/wiki/Alberto_Fouillioux	ES	¿Qué estudió Alberto Fouillioux?	Qwen/Qwen2-7B-Instruct	Alberto Fouillioux estudió Ciencias Económicas y Empresariales en la Universidad Paris Dauphine, Francia. Luego, obtuvo una Maestría en Economía Política de la Universidad de Oxford, Reino Unido.	Alberto Fouillioux	n	y
+2270	https://es.wikipedia.org/wiki/Hamilton_Academical_Football_Club	ES	¿Cuántas veces ha participado el equipo escocés de football Hamilton Academical Football Club en el torneo Scottish Challenge Cup?	Iker/Llama-3-Instruct-Neurona-8b-v2	El Hamilton Academical Football Club ha participado en el torneo Scottish Challenge Cup varias veces. Hasta mi última actualización en octubre de 2021, han participado un total de 17 veces desde su primera aparición en 1994. Sin embargo, este número puede cambiar con el tiempo a medida que el equipo participa en futuras ediciones del torneo.	Hamilton Academical F.C.	n	y
+307	https://es.wikipedia.org/wiki/The_Eternal_Idol	ES	¿Cuándo fue lanzado el disco The Eternal Idol, por Black Sabbath?	Qwen/Qwen2-7B-Instruct	"El disco ""The Eternal Idol"" de Black Sabbath fue lanzado el 24 de septiembre de 1987."	The Eternal Idol	n	y
+5825	https://es.wikipedia.org/wiki/Gödöllő	ES	¿En qué país se encuentra la ciudad de Gödöllő?	meta-llama/Meta-Llama-3-8B-Instruct	La ciudad de Gödöllő se encuentra en Hungría, en el centro de Europa.	Gödöllő	n	n
+2056	https://es.wikipedia.org/wiki/Galicia	ES	¿Cuál es la capital de la comunidad autónoma de Galicia?	Qwen/Qwen2-7B-Instruct	La capital de la comunidad autónoma de Galicia es Santiago de Compostela.	Galicia (Spain)	n	n
+3980	https://es.wikipedia.org/wiki/Torún	ES	¿En qué país se encuentra la ciudad de Toruń?	Qwen/Qwen2-7B-Instruct	La ciudad de Toruń se encuentra en el país de Polonia.	Toruń	n	n
+3569	https://es.wikipedia.org/wiki/A_Portuguesa	ES	¿Quién escribió la letra del himno nacional de portugal, A Portuguesa?	meta-llama/Meta-Llama-3-8B-Instruct	"La letra del himno nacional de Portugal, ""A Portuguesa"", fue escrita por José Malhoa y Henrique Lopes de Mendonça. La música fue compuesta por Alfredo Keil.
+
+La letra fue escrita en 1891, y se basa en un poema escrito por Henrique Lopes de Mendonça, que fue un poeta y diplomático portugués. El poema original se llamaba ""A Portuguesa"" y fue escrito en 1890, en honor a la Exposición Internacional de Barcelona.
+
+La letra fue luego adaptada por José Malhoa, un pintor y escritor portugués, que la convirtió en un himno patriótico. La música fue compuesta por Alfredo Keil, un compositor alemán que vivió en Portugal y se inspiró en la tradición musical portuguesa.
+
+""A Portuguesa"" fue adoptada como himno nacional de Portugal en 1911, y desde entonces ha sido interpretada en numerosas ocasiones en eventos patrióticos y celebraciones nacionales."	A Portuguesa	n	y
+406	https://es.wikipedia.org/wiki/Carlo_Gozzi	ES	¿Según el dramaturgo Carlo Gozzi, cuántos argumentos dramáticos existen?	Qwen/Qwen2-7B-Instruct	Según el dramaturgo italiano Carlo Gozzi, se identifican seis argumentos dramáticos: comedia, tragedia, opéra comique, melodrama, comedia seria y comedia burlesca.	Carlo Gozzi	n	y
+1654	https://es.wikipedia.org/wiki/Ecociudad	ES	¿Cuál es una característica principal de una ciudad sostenible?	Iker/Llama-3-Instruct-Neurona-8b-v2	Una característica principal de una ciudad sostenible es su capacidad para proporcionar bienestar económico, social y ambiental para sus residentes mientras minimiza el impacto negativo en el medio ambiente. Esto se logra a través de una variedad de estrategias, incluyendo el uso eficiente de recursos, la reducción de residuos y la promoción del transporte sostenible. Además, las ciudades sostenibles priorizan la equidad social, ofreciendo acceso a viviendas asequibles, atención sanitaria y educación para todos los residentes.	Sustainable city	n	n
+3338	https://es.wikipedia.org/wiki/Aston_Martin_Vanquish	ES	¿En qué años se produjo la primera generación del Aston Martin Vanquish?	Iker/Llama-3-Instruct-Neurona-8b-v2	La primera generación del Aston Martin Vanquish se produjo entre 2001 y 2007.	阿斯顿·马丁V12 Vanquish	n	n
