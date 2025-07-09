@@ -23,6 +23,3 @@ year={2025},
 url={https://helsinki-nlp.github.io/shroom/}
 }
 ```
-</td>
-</tr>
-</table>
